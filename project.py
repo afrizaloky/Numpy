@@ -39,4 +39,3 @@ c = np.transpose(b)
 print(c)
 
 ##
-c = np.
